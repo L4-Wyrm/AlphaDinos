@@ -1,6 +1,6 @@
 # Old Alpha Dinos
 
-![Logo](https://raw.githubusercontent.com/L4-Wyrm/FEe/master/Logo/FEe_SRC_Logo.png "Logo")
+![Logo](https://github.com/L4-Wyrm/AlphaDinos/blob/master/Logo/AlphaDinos_SRC.png "Logo")
 
 Source code of Old Alpha Dinos
 
